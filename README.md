@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img alt="Plant-Manager"src="https://imgur.com/a/pO3coik" width="100%" height="auto">
+  <img alt="Plant-Manager"src="https://i.imgur.com/qXv2LPb.png" width="100%" height="auto">
 </p>
 
 ## 📌 Projeto
-O aplicativo foi criado durante a <b>Semana JS Expert 03<br>! Gerenciada pelo [@Erick Wendel](https://github.com/erickwendel).
+O aplicativo foi criado durante a <b>Semana JS Expert 03<b>! Gerenciada pelo [@Erick Wendel](https://github.com/erickwendel).
 
 Seu objetivo é conectar pessoas através do terminal - independente de seu sistema operacional - para colocar o papo em dia.
 A conexão é feita através de WebSockets construídos sem usar bibliotecas externas.
