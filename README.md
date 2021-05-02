@@ -13,7 +13,7 @@
 </p>
 
 ## 📌 Projeto
-O aplicativo foi criado durante a <b>Semana JS Expert 03<b>! Gerenciada pelo [@Erick Wendel](https://github.com/erickwendel).
+O aplicativo foi criado durante a <b>Semana JS Expert 03</b>! Gerenciada pelo [@Erick Wendel](https://github.com/erickwendel).
 
 Seu objetivo é conectar pessoas através do terminal - independente de seu sistema operacional - para colocar o papo em dia.
 A conexão é feita através de WebSockets construídos sem usar bibliotecas externas.
