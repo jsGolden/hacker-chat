@@ -46,8 +46,8 @@ Para clonar para seu repositório local use o seguinte comando no seu terminal d
     cd hacker-chat
 
     # instalando dependências do cliente/servidor
-    cd client && npm i && ..
-    cd server && npm i && ..
+    cd client && npm i && cd ..
+    cd server && npm i && cd ..
 
     # rodando projeto
     cd client
